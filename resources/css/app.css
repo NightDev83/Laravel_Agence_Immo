@@ -1,0 +1,4 @@
+.img-custom {
+    width: 200px; /* ou une valeur spécifique */
+    height: auto; /* pour maintenir les proportions de l'image */
+}
